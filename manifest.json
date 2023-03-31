@@ -1,7 +1,7 @@
 {
   "vendor": "titamedia",
-  "name": "jairo-vtex-learning-store-theme",
-  "version": "0.0.1",
+  "name": "titamedia-theme",
+  "version": "6.0.5",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
