@@ -1,6 +1,6 @@
 {
   "vendor": "titamedia",
-  "name": "jairo-vtex-learning-store-theme",
+  "name": "store-theme",
   "version": "0.0.1",
   "builders": {
     "styles": "2.x",
@@ -65,7 +65,7 @@
     "vtex.css-handles": "1.x"
   },
   "peerDependencies": {
-    "vtex.reviews-and-ratings": "3.x"
+    "vtex.reviews-and-ratings": "2.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
